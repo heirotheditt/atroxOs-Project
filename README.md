@@ -3,6 +3,7 @@
 > A lightweight, 32-bit x86 bare-metal operating system kernel built from scratch in C and Assembly.
 
 Atrox OS is a minimal, multiboot-compliant kernel operating system designed to run in 32-bit Protected Mode. It operates without external runtime dependencies or standard C libraries (`libc`), featuring a custom memory allocator, real-time clock integration, and a built-in virtual file system.
+ To Install the os go to : https://github.com/heirotheditt/atroxOs-Project/releases/tag/Os
 
 ---
 
